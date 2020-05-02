@@ -1,6 +1,6 @@
 function solution(board, moves) {
 
-    var count =0;
+    var count = 0;
     var stack = [];
   
     for(var i = 0; i < moves.length; i++){
